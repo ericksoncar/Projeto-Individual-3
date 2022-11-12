@@ -1,0 +1,78 @@
+{
+  "burgersArtesanais": [
+    {
+      "id": 1,
+      "tipoBurger": "Mad Queen",
+      "descricaoBurger": "Um blend artesanal de 140g grelhado na chairbroiler, muitoooo cheddar flambado no massarico, geleia cremosa de bacon, alface americana e ketchupe artesanal de goiaba, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "preçoBurger": "41.60"
+    },
+    {
+      "id": 2,
+      "tipoBurger": "Insane",
+      "descricaoBurger": "Um blend artesanal de 140g grelhado na chairbroiler, queijo cheddar, cebola crispy feita na casa, bacon defumado sequinho e crocante, alface americana e molho especial Mad Buffalo, receita do tio Sam, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "preçoBurger": "41.60"
+    },
+    {
+      "id": 3,
+      "tipoBurger": "Double Smash",
+      "descricaoBurger": "2 Burgers Smash de 60g com casquinha crocante, molho verde da casa feito com erva finas, cheddar flambado no massarico, bacon defumado sequinho e crocante, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "preçoBurger": "40.30"
+    },
+    {
+      "id": 4,
+      "tipoBurger": "Lunatic",
+      "descricaoBurger": "Um blend artesanal de 140g grelhado na chairbroiler, queijo prato, pickles confinado, bacon defumado sequinho e crocante, alface americana e molho especial Mad Buffalo, receita do tio Sam, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "preçoBurger": "41.60"
+    },
+    {
+      "id": 5,
+      "tipoBurger": "Angry",
+      "descricaoBurger": "Burger de 140g de cupim sequinho e suculento, grelhado na chairbroiler, queijo cheddar, cebola caramelizada no azeite, bacon defumado sequinho e crocante, alface americana e molho especial Mad Buffalo, receita do tio Sam, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "preçoBurger": "46.80"
+    }
+  ],
+  "tatuadores": [
+    {
+      "id": 1,
+      "nomeTatuador": "Davi Silva",
+      "InstaTatuador": "@DaviTatoo",
+      "infoTatuador": [
+        "696.696.696-69",
+        "11/09/2001",
+        "Rua lixeira,1,Lixão"
+      ],
+      "idEstudio": 1
+    },
+    {
+      "id": 2,
+      "nomeTatuador": "Rodrigo Majins",
+      "InstaTatuador": "@RodMajTatoo",
+      "infoTatuador": [
+        "154.154.154-00",
+        "29/02/1996",
+        "Rua Jambreiro,4,Brioco"
+      ],
+      "idEstudio": 1
+    }
+  ],
+  "locaisDeEntrega": [
+    {
+      "id": 1,
+      "nomeEstudio": "Tatuadora Foda",
+      "EndereçoEstudio": [
+        "Rua tal,numero pi, bairro vrau,cidade vixh"
+      ],
+      "qtdTatuadores": "1",
+      "funcionamentoEstudio": "das 10h as 18H"
+    },
+    {
+      "id": 2,
+      "nomeEstudio": "Outro estudio de tatuagem",
+      "EndereçoEstudio": [
+        "Rua mau, numero x²+2,Bairro Matemática"
+      ],
+      "qtdTatuadores": "1",
+      "funcionamentoEstudio": "das 9h as 17H"
+    }
+  ]
+}
