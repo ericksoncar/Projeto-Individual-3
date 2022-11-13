@@ -1,0 +1,75 @@
+{
+  "burgersArtesanais": [
+    {
+      "id": 1,
+      "nomeBurger": "Mad Queen",
+      "descricaoBurger": "Um blend artesanal de 140g grelhado na chairbroiler, muitoooo cheddar flambado no massarico, geleia cremosa de bacon, alface americana e ketchupe artesanal de goiaba, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "fotoBurger": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/f2250fe0-6cd3-4459-86d6-54f22a59197a/202110141311_NK57_i.jpg",
+      "preçoBurger": "41.60"
+    },
+    {
+      "id": 2,
+      "nomeBurger": "Insane",
+      "descricaoBurger": "Um blend artesanal de 140g grelhado na chairbroiler, queijo cheddar, cebola crispy feita na casa, bacon defumado sequinho e crocante, alface americana e molho especial, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "fotoBurger": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/f2250fe0-6cd3-4459-86d6-54f22a59197a/202110131322_SHK4_i.jpg",
+      "preçoBurger": "41.60"
+    },
+    {
+      "id": 3,
+      "nomeBurger": "Double Smash",
+      "descricaoBurger": "2 Burgers Smash de 60g com casquinha crocante, molho verde da casa feito com erva finas, cheddar flambado no massarico, bacon defumado sequinho e crocante, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "fotoBurger": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/f2250fe0-6cd3-4459-86d6-54f22a59197a/202103051458_7Mfr_f.png",
+      "preçoBurger": "40.30"
+    },
+    {
+      "id": 4,
+      "nomeBurger": "Lunatic",
+      "descricaoBurger": "Um blend artesanal de 140g grelhado na chairbroiler, queijo prato, pickles confinado, bacon defumado sequinho e crocante, alface americana e molho especial, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "fotoBurger": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/f2250fe0-6cd3-4459-86d6-54f22a59197a/202110131455_S488_i.jpg",
+      "preçoBurger": "41.60"
+    },
+    {
+      "id": 5,
+      "nomeBurger": "Angry",
+      "descricaoBurger": "Burger de 140g de cupim sequinho e suculento, grelhado na chairbroiler, queijo cheddar, cebola caramelizada no azeite, bacon defumado sequinho e crocante, alface americana e molho especial, tudo isso dentro de um pão artesanal brioche selado na manteiga de garrafa.",
+      "fotoBurger": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/f2250fe0-6cd3-4459-86d6-54f22a59197a/201909221014_CSTG_m.jpg",
+      "preçoBurger": "46.80"
+    }
+  ],
+  "burgersTradicionais": [
+    {
+      "id": 1,
+      "nomeBurger": "Crazy",
+      "descricaoBurger": "Pão com gergelim, alface americana, 2 carnes hambúrguer 100% bovina grelhadas na chairbroiler, 2 fatias queijo prato, bacon defumado sequinho e crocante e molho especial.",
+      "fotoBurger": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/f2250fe0-6cd3-4459-86d6-54f22a59197a/202204270859_IJJ4_i.jpg",
+      "preçoBurger": "23.40"
+    },
+    {
+      "id": 2,
+      "nomeBurger": "Marco's Crazy",
+      "descricaoBurger": "Pão com gergelim, alface americana, 2 carnes hambúrguer 100% bovina grelhadas na chairbroiler, 2 fatias queijo prato, cebola crispy feita na casa e molho especial.",
+      "fotoBurger": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/f2250fe0-6cd3-4459-86d6-54f22a59197a/202204270911_KSL5_i.jpg",
+      "preçoBurger": "23.40"
+    }
+  ],
+  "sobreFiliais": [
+    {
+      "id": 1,
+      "localFilial": "Filial Vila da Penha",
+      "endereçoFilial": [
+        "Rua abc, numero 123, Vila da Penha"
+      ],
+      "diasDeFuncionamento": "de terça a sábado",
+      "funcionamentoFilial": "das 19:00 as 00:00"
+    },
+    {
+      "id": 2,
+      "localFilial": "Filial Madureira",
+      "endereçoFilial": [
+        "Rua def, numero 456, Madureira"
+      ],
+      "diasDeFuncionamento": "de terça a sábado",
+      "funcionamentoFilial": "das 18:00 as 23:30"
+    }
+  ]
+}
